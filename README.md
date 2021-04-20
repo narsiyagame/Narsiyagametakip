@@ -1,2 +1,2 @@
-# Narsiyagametakip
-Abiler ablalar buradan takip edebilirsiniz.. 
+# Narsiyagametakip Abiler ablalar Görev metin dosyaları buradan takip edilebilir. 
+
