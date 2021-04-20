@@ -1,0 +1,39 @@
+Şila; Merhaba yolcu. Bir içkiye ne dersin ?
+
+Seçenek 1 ; Çok iyi olur ; 100 ERAT ( % 30 KALKAN VERİR )
+Seçenek 2 ; Kalsın teşekkür ederim. 
+
+
+Seçenek 1 Cevap Sila; Eee yolcu neden buradasın ?
+Seçenek 2 Cevap Şila; Peki neden buradasın içki için gelmediysen ? Burada sadece içen müşterilerim bulunabilir
+
+
+Cevap 1 Esita; Aslında biraz paraya ihtiyacım var. Uzun bir yolculuğa çıkacağım fakat cebimde hiç param yok..
+Cevap 2 Esita; Hiiç sadece buradan geçiyordum.
+
+
+Cevap 1 Devamı Şila; Maalesef sana bu konuda yardımcı olamam. Burada herkesin durumu az çok bellidir.
+( bir miktar düşünür ve )
+Imm aslında bir durum var. ama bunu yapabilir misin bundan emin değilim..
+Uzun zamandır köyün dışındaki mağarada büyük bir ejderha var. Normalde ejderhalar çok tehlikelidirler.
+Fakat ilginç bir şekilde köyümüze dokunmuyor. Sanırım uzun bir uykuya yattı.
+Önceden o mağarayı depo olarak kullanırdım.  Ve bana ailemden kalan bir yüzüğü o mağarada düşürmüşüm.
+Fakat gidip alamıyorum Çünkü o lanet ejderha çok korkutucu.. Oraya bir kaç kişi gönderdim ama maalesef geri dönmediler.
+Muhtemelen başaramadılar..
+O yüzüğün manevi değeri benim için çok fazla..  Onu geri getirmeni istiyorum. Nasıl getirdiğin önemli değil..
+Karşılığında sana 1.500 erat verebilirim..
+
+Seçenek 1 Esita; 1.500 erat güzel para. Bunu deneyeceğim.
+Seçenek 2 Esita; 1.500 erat güzel para. Fakat bu iş beni aşar. henüz o kadar güçlü değilim kusura bakma. 
+
+
+
+( Esita gidip yüzüğü alırsa. yüzüğün satış değeri 5.000 erat olduğu yüzüğün üstünde çıkar. Oyun eğer yüzüğü kadına 
+geri götürmezse ve satıcıya 5.000 erat karşılıgında satarsa -4 Onur kaybeder. 
+Ve görev iptal olur..  Ama bu görevi yaparsa +2 Onur kazanır. )
+
+
+Görev yapılırsa Şile; Çok teşekkür ederim. Bu yüzüğün benim için ne kadar önemli olduğunu tahmin bile edemezsin..
+Benden sana bir içki ve 1.500 erat.. Bu iyiliğini unutmayacağım    
+
+'' Görev sonu ( +2 onur + 1.500 erat + % 30 kalkan ) '' 
