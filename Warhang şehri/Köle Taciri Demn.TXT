@@ -1,0 +1,35 @@
+Demn; Buyur yolcu ?
+Esita; Bu kızları neden bu hale getirdin ?? 
+Demn; Ne diyorsun yolcu.. Çünkü onlar benim mallarım. Bense onların sahipleriyim. 
+
+
+
+Seçenek 1 Esita; Onlar bir insan. ne hakla onlara bu eziyetleri yapıp bu hale sokarsın ??
+Seçenek 2 Esita; Hmm Onlara ne yaptığın beni ilgilendirmiyor. Şu sarı saçlı kızla ilgileniyorum.
+Seçenek 3 Esita; Anladım. Maalesef onları alacak param yok ve bu beni ilgilendirmiyor. 
+Seçenek 4 Esita; Hemen bütün kızları serbest bırak. Yoksa senin mezarını dikerim. ( tehdit 3 gerekli )
+'' 3 Seviye tehdit özelliği bulunuyorsa '' 
+s4 Cevap Demn; ta ta tabi. hemen bırakıyorum lütfen bana zarar verme ( Bu seçenekte kızlar serbest kalır ve karakter +2 Onurkazanır )
+
+
+
+
+S1 Cevap Demn; Bu seni ilgilendirmez böcek. Eğer paran yoksa hemen uza buradan. 
+S2 Cevap Demn; Hmm. Sarı saçlı kız gayet iyidir. Biraz çelimsiz ama onu güzel beslersen bir şovalye bile olabilir.. Hahahah 
+S3 Cevap Demn; O zaman hemen buradan toz ol!!  
+
+
+S1 Esita; Bu insanlara bunları yapmaya hakkın yok. Ya o kızları serbest bırakırsın. ya da ben senin hesabını alırım.
+S2 Esita; Boş yapma da sarı saçlı kızın fiyatını söyle.  
+
+
+S1 Cevap Demn; Seni adi köpek. Seni de bu kızların arasına katmaya karar verdim.. yakalayın şunu !!! ( Yanındakı muhafızlar saldırır 
+Esita muhafızları öldürür ve Demn de ona saldırır. biraz güçlüdür. Şehirdeki insanlar sağa sola kaçışır
+Demn öldükten sonra kızlar serbest kalır. Ve ekran açılır. '' Saro; Teşekkürler Esita. kardeşimi kurtardın..
+Artık bir ömür senin sadık takipçin olacağım.  çok teşekkürler.. '' ( Onur +3 Ün +2 Sevgi +3 Tehdit +2 ) 
+S2 Cevap Demn; 2.200 erat. 
+
+
+S2 Esita; ( Parayı verir ve sarı saçlı kızı kurtarır.. ) Onur -1  Sevgi +1 Ün +1 '' Saro konuşması devreye girer.. '' 
+
+
